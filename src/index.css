@@ -1,0 +1,36 @@
+@media (max-width: 771px) {
+  .filters {
+    width: 40%;
+    padding: 10px;
+    margin: 5px;
+  }
+
+  .filters > span {
+    font-size: 10px;
+  }
+
+  .title {
+    font-size: 18px !important;
+  }
+
+  .productsContainer {
+    width: 58%;
+    padding: 0;
+  }
+
+  /* .search {
+    display: none !important;
+  } */
+  .m-auto{
+    width: 100px !important;
+  }
+
+  .products {
+    width: 100%;
+  }
+  .drop{
+    min-width:10px !important;
+    margin: 0 0 !important;
+}
+  
+}
